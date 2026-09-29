@@ -1,1 +1,2 @@
-# Campus Connect Releases\nAndroid APK releases for Campus Connect Kenya.
+# Campus Connect Releases
+Android APK releases for Campus Connect Kenya.
